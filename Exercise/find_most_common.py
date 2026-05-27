@@ -10,5 +10,5 @@ print(result)
 result2 = l1.most_common(1)
 print(result2)
 
-result3 = Counter("elephantinzoo").most_common(2)
+result3 = Counter("elephantinzoo").most_common(3)
 print(result3)
